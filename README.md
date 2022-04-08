@@ -15,7 +15,7 @@ logo é verificado quantos números ele acertou
 4. [ ] Deixar responsivo
 
 ### Disponibilizado em
-[GitHubPage](https://renanberserk.github.io/loteca/)
+[GitHubPage](https://akssy1.github.io/loteria-yannka/)
 
 ### Prints da tela
 

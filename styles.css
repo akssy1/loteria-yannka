@@ -5,7 +5,7 @@ header {
   align-items: center;
 }
 body {
-  background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p2/2082545-casino-fundo-abstrato-moderno-com-cartas-sinais-poquer-simbolos-no-fundo-preto-cassino-simbolos-widescreen-wallpaper-vetor.jpg");
+  background-image: url("https://b.rgbimg.com/users/l/la/lamur/600/rW2LtdK.jpg");
   background-repeat: no-repeat;
   background-position: 50%;
   background-size: 100%;
@@ -21,7 +21,7 @@ input[type="number"] {
 h1,
 h3 {
   font-size: 5em;
-  color: darkgreen;
+  color: rgb(61, 20, 19);
   font-family: Impact, sans-serif;
   letter-spacing: 10px;
   font-weight: bold;
@@ -34,7 +34,7 @@ h3 {
   font-size: 3em;
   font-style: normal;
   font-variant: normal;
-  color: rgb(14, 255, 6);
+  color: rgb(77, 8, 8);
   font-family: sans-serif;
   margin-top: 10px;
 }
@@ -52,7 +52,7 @@ h3 {
 .btnSort > button {
   font-size: 2em;
   padding: 10px 25px;
-  background-color: chartreuse;
+  background-color: rgb(61, 20, 19);
   border: 1px solid black;
   border-radius: 10px;
   font-family: sans-serif;
@@ -67,7 +67,7 @@ h3 {
   width: 1.5em;
   font-size: 4em;
   margin-right: 15px;
-  background-color: rgb(33, 105, 49);
+  background-color: rgb(105, 33, 33);
   border: 1px solid black;
   border-radius: 15px;
 }

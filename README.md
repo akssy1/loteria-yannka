@@ -22,7 +22,8 @@ logo é verificado quantos números ele acertou
   | ID | Primeira tela | Segunda Tela     |
   |----|---------------|------------------|
   |  1 | loteca Limpa  | loteca Preenchida|
-  |  2 |![image](https://user-images.githubusercontent.com/78621483/161781664-c2bf38f0-6b00-4905-abb8-55dbfdb57f1d.png) | 
+  |  2  | ![image](https://user-images.githubusercontent.com/101722495/162439067-39313afc-4004-4225-8d98-8b699efa14f1.png) |  ![image](https://user-images.githubusercontent.com/101722495/162439272-7b1dcc49-3e94-4e84-aba5-e6022615c8b5.png) |
+
 
 
 #### Função Pricipal

@@ -22,7 +22,9 @@ logo é verificado quantos números ele acertou
   | ID | Primeira tela | Segunda Tela     |
   |----|---------------|------------------|
   |  1 | loteca Limpa  | loteca Preenchida|
-  |  2  | ![image](https://user-images.githubusercontent.com/101722495/162439067-39313afc-4004-4225-8d98-8b699efa14f1.png) |  ![image](https://user-images.githubusercontent.com/101722495/162439272-7b1dcc49-3e94-4e84-aba5-e6022615c8b5.png) |
+  |  2  | ![image](![image](https://user-images.githubusercontent.com/101722495/162976801-2d97e35d-e95e-4402-82f5-908d8119d732.png)
+) |  ![image](![image](https://user-images.githubusercontent.com/101722495/162977031-7f9d9f4b-ccb2-4262-a53c-609fc6c68133.png)
+) |
 
 
 
